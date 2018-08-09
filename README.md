@@ -24,7 +24,7 @@
     {
     	text-indent:2em;
     	color:blue;
-      font-size:30px;
+        font-size:30px;
 
     }
     span
@@ -65,7 +65,7 @@
 		<tr><td><br /></td></tr>
 		<tr>
 			<td><a name="1"></a>人物简介：<br />
-				周杰伦，1979年1月18日出生于台湾省新北市，中国台湾流行乐男歌手、音乐人、演员、导演、编剧、监制、商人。2000年被吴宗宪
+				周杰伦，1979年1月18日出生于<div class="her">台湾省</div>新北市，中国台湾流行乐男歌手、音乐人、演员、导演、编剧、监制、商人。2000年被吴宗宪
         发掘并推出首张专辑《JAY》。从此轰动整个音乐圈。2005年涉足影视，
         以电影<a href="http://v.sogou.com/movie/mzuwy3k7geztemzwg4e43n6oytl5mra.html" target="_blank" title="点击进入观影">《头文字D》</a>获
         奖第24届台湾电影金马奖及第25届香港电影金像奖“最佳新人奖”
